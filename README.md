@@ -1,4 +1,4 @@
-# melamine
+# Melamine
 ## A Deep Learning Model for the Segmentation and Classification of Melanoma Skin Lesions
 Melanoma is the most fatal of skin cancers as it accounts for most skin cancer deaths. However,
 if melanoma is detected early, it is highly curable. Its diagnosis involves non-invasive exam-
